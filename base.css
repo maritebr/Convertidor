@@ -1,0 +1,39 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:0 auto;
+    padding:0;
+    font-size: 18px;
+    background:url(vectordolares.jpg)
+}
+
+h1{
+    background:rgb(184, 226, 173);
+    margin: 0 0 30px;
+    padding: 10px;
+    color:black;
+    text-align: center;
+    
+}
+input{
+    display:block;
+    margin: 10px 0;
+    height: 30px;
+    color:#666;
+}
+
+.contenidos{
+    padding: 30px;
+    background:rgba(91, 110, 100, 0.7);
+    border: solid 1px silver;
+    width: 300px;
+    margin:auto;
+    border-radius: 10px;
+    color:#fff;
+}
+label{
+    font-size: 25px
+}
+button{
+    padding: 8px;
+    width:265px;
+}
